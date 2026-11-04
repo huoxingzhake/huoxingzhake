@@ -1,22 +1,61 @@
-Aftertaxly
-Aftertaxly - Free take-home pay calculators for New Zealand, Australia, the UK and Ireland.
-Enter your salary and see what actually lands in your bank account, with a full breakdown of where the rest went.
-What it covers
-New Zealand - PAYE, ACC levy, KiwiSaver, student loan, secondary tax, holiday pay
-Australia - Income tax, Medicare levy, HELP repayments, super, long service leave by state
-United Kingdom - Income tax, National Insurance, student loans, workplace pension
-Ireland - Income tax, USC, PRSI, My Future Fund
-Why trust these numbers?
-Every rate is taken from an official source and re-checked each tax year:
-NZ brackets and ACC levy from IRD
-Australian scales and HELP thresholds from the ATO
-UK bands and loan thresholds from GOV.UK
-Irish bands and USC rates from Revenue
-Each country has its own method page listing every parameter, its source and an update log. All calculators are for the 2026-27 tax year (2026 in Ireland).
-Links
-Homepage: https://aftertaxly.com/
-New Zealand: https://aftertaxly.com/nz/
-Australia: https://aftertaxly.com/au/
-United Kingdom: https://aftertaxly.com/uk/
-Ireland: https://aftertaxly.com/ie/
-Free to use, no sign-up.
+# Hi, I'm Huoxingzhake 👋
+
+I'm an independent developer interested in building practical online tools that make everyday calculations and complex information easier to understand.
+
+My projects focus on financial calculators, economic data, and useful web applications.
+
+## 🚀 Featured Projects
+
+### 1. Aftertaxly — Salary & Take-Home Pay Calculators
+
+🌐 **Website:** https://aftertaxly.com/
+
+Aftertaxly is an online salary and tax calculator project designed to help people understand their take-home pay and how income taxes affect their earnings.
+
+The project focuses on payroll calculations and practical salary insights across multiple English-speaking markets.
+
+**Key features:**
+- Salary and take-home pay calculations
+- Income tax estimates
+- Payroll and employment-related calculators
+- Country-specific calculation tools
+- Practical tools for understanding net income
+
+**Markets:** Australia, New Zealand, United Kingdom, and Ireland.
+
+### 2. Inflation Record — Historical Inflation & Purchasing Power
+
+🌐 **Website:** https://inflationrecord.com/
+
+Inflation Record is a free online resource for exploring how inflation changes the value of money over time.
+
+It uses published economic data, including the U.S. Consumer Price Index (CPI-U), to help people understand historical inflation, purchasing power, and changes in the real value of money.
+
+**Key features:**
+- **Inflation Calculator** — Compare the value of money across different years.
+- **Purchasing Power Calculator** — Understand how inflation affects the real value of money.
+- **Salary Inflation Calculator** — Estimate the salary increase needed to maintain purchasing power.
+- **Future Inflation Calculator** — Explore hypothetical inflation scenarios.
+- **Historical Gas Prices** — Compare gasoline prices over time, including inflation-adjusted values.
+- **Historical CPI Data** — Explore historical inflation trends.
+
+**Data & Methodology:** The project uses published economic data and provides information about its calculation methods and data sources.
+
+- Website: https://inflationrecord.com/
+- Methodology: https://inflationrecord.com/methodology/
+
+## 🎯 What I'm Building
+
+I enjoy creating useful, data-driven web tools that solve real-world problems.
+
+My focus areas include:
+
+- Financial and salary calculators
+- Economic data visualization
+- Historical data analysis
+- Search-friendly web applications
+- Practical tools for everyday decisions
+
+Thanks for visiting my profile!
+
+---
