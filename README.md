@@ -43,8 +43,9 @@ It uses published economic data, including the U.S. Consumer Price Index (CPI-U)
 
 - Website: https://inflationrecord.com/
 - Methodology: https://inflationrecord.com/methodology/
+- 
 
-- [DidItShake](https://diditshake.com/) - Did it shake near you? Earthquake history for your town, in your local time.**
+3--[DidItShake](https://diditshake.com/) - Did it shake near you? Earthquake history for your town, in your local time.**
 
 Enter your town and see the most recent earthquake near you, the biggest one on record, and whether your area has been shaking more or less than usual.
 
