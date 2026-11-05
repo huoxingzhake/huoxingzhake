@@ -44,6 +44,37 @@ It uses published economic data, including the U.S. Consumer Price Index (CPI-U)
 - Website: https://inflationrecord.com/
 - Methodology: https://inflationrecord.com/methodology/
 
+- [DidItShake](https://diditshake.com/) - Did it shake near you? Earthquake history for your town, in your local time.**
+
+Enter your town and see the most recent earthquake near you, the biggest one on record, and whether your area has been shaking more or less than usual.
+
+## What it covers
+
+- **Near me** - Use your browser location or type a town name and get the closest town page, the latest earthquake near it, and how many there have been in the last 7 days within 100 km. Your location is worked out on your own device and is never uploaded.
+- **Town pages** - For each town: the most recent earthquake (when it happened in local time, how big it was, how far away), the biggest on record since 1980, and a full earthquake history with a map and charts.
+- **Busier or quieter than usual?** - Each page compares the last 12 months with the town's own average over the previous ten years, in plain words, so one small earthquake means what it should: normal for some towns, unusual for others.
+- **Live updates** - Pages are rebuilt every hour from the latest official catalog, so a new earthquake shows up on its town page quickly.
+
+6,124 U.S. town pages have been built from towns with real earthquake history; the first 400 are live and the rest are being released in steps while indexing is watched.
+
+## Why trust these numbers?
+
+Every earthquake comes from one official source, and every number on a page is defined in the open:
+
+- All events from the **USGS Earthquake Catalog (ComCat)** - the same catalog scientists and newsrooms use
+- Only real earthquakes are counted, within 100 km of each town - no quarry blasts, no other event types mixed in
+- Times are stored in UTC and shown in **each town's own time zone** - "11:38 pm where you live", not a UTC time you have to convert
+- A full methodology page defines every figure on the site, including what the catalog cannot tell you
+
+## Links
+
+- Homepage: https://diditshake.com/
+- Near me: https://diditshake.com/near-me/
+- A town page (San Francisco): https://diditshake.com/ca/san-francisco/
+- Methodology: https://diditshake.com/methodology/
+
+Free to use, no sign-up.
+
 ## 🎯 What I'm Building
 
 I enjoy creating useful, data-driven web tools that solve real-world problems.
